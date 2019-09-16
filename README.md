@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
 ![LastUpdate](https://img.shields.io/badge/last%20update-2019%2F09-yellow.svg)
 
-![logo]()
+![logo](https://github.com/Leviathan36/MartianHacks/blob/master/IMAGES/logo.png)
 # About
 
 MartianHacks is a jupyter notebook  which contains the main commands executed during a penetration test.
@@ -36,20 +36,20 @@ Also, several wordlists will be downloaded:
 
 Collect nmap output directly under the command execution instead of copying the result into a text editor.
 
-![nmap_execution]()
+![nmap_execution](https://github.com/Leviathan36/MartianHacks/blob/master/IMAGES/SCREENSHOTS/nmap_execution.png)
 <br>
 
 Explore the evidences collected with the **Table of contents** at the right side of the window.
 <br>
 
-![searchsploit_execution]()
+![searchsploit_execution](https://github.com/Leviathan36/MartianHacks/blob/master/IMAGES/SCREENSHOTS/searchsploit_execution.PNG)
 <br>
 <br>
 
 Look the root content with the tab **Files**.
 Click on text files to open them (click on their icon for downloading).
 
-<p align="center"><img src="" width="75%" height="auto" alt="tab_files"></p>
+<p align="center"><img src="https://github.com/Leviathan36/MartianHacks/blob/master/IMAGES/SCREENSHOTS/tab_files.PNG" width="75%" height="auto" alt="tab_files"></p>
 <br>
 <br>
 
