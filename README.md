@@ -13,7 +13,7 @@ The jupyter notebooks allow you to execute commands individually and collect the
 The python notebooks also make the transition from the commands execution to final report much easier.
 
 It's possible to execute the notebook in a local server and, consequently, attack the machines on the LAN or execute it in a remote server and attack public IP.
-In this last scenario, it's convenient exploit Google Colab service to use the powerfull hardware offered by Google (Tesla K80); in particulary, this is desirable for the password cracking phase.
+In this last scenario, it's convenient to exploit Google Colab service to use the powerfull hardware offered by Google (Tesla K80); in particulary, this is desirable for the password cracking phase.
 
 # Tools
 This jupyter notebook will install the following tools:
